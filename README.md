@@ -38,3 +38,11 @@ TensorBoard is another great debugging and visualization tool. The model is conf
 
 ![](assets/detection_final.png)
 
+## Requirements
+Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
+
+### MS COCO Requirements:
+To train or test on MS COCO, we also need:
+* pycocotools 
+* [MS COCO Dataset](http://cocodataset.org/#home)
+
